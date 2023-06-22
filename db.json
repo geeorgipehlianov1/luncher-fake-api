@@ -25,5 +25,47 @@
             "label": "Games",
             "logo": "Game"
         }
+    ],
+    "top-games": [
+        {
+            "title": "DIABLO",
+            "subTitle": "Welcome to hell",
+            "description": "Peeling back the patina: The graphics of Sanctuary",
+            "icon": "Game",
+            "image": "Dota",
+            "id": 1
+        },
+        {
+            "title": "OVERWATCH",
+            "subTitle": "Welcome to hell",
+            "description": "Embark on mythic adventure in Seoson 5",
+            "icon": "Game",
+            "image": "Dota",
+            "id": 2
+        },
+        {
+            "title": "CALL OF DUTY",
+            "subTitle": "Welcome to hell",
+            "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
+            "icon": "Game",
+            "image": "Dota",
+            "id": 3
+        },
+        {
+            "title": "OVERWATCH",
+            "subTitle": "Welcome to hell",
+            "description": "Embark on mythic adventure in Seoson 5",
+            "icon": "Game",
+            "image": "Dota",
+            "id": 4
+        },
+        {
+            "title": "OVERWATCH",
+            "subTitle": "Welcome to hell",
+            "description": "Embark on mythic adventure in Seoson 5",
+            "icon": "Game",
+            "image": "Dota",
+            "id": 5
+        }
     ]
 }
