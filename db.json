@@ -29,10 +29,10 @@
     "top-games": [
         {
             "title": "DIABLO",
-            "subTitle": "Welcome to hell",
+            "subTitle": "Wecome to hell",
             "description": "Peeling back the patina: The graphics of Sanctuary",
             "icon": "Game",
-            "image": "Dota",
+            "image": "Doa",
             "id": 1
         },
         {
@@ -67,5 +67,28 @@
             "image": "Dota",
             "id": 5
         }
+    ],
+    "games-trailer": [
+        {
+            "title": "DIABLO",
+            "description": "Peeling back the patina: The graphics of Sanctuary",
+            "icon": "Game",
+            "image": "Dota",
+            "videoId": "-cSFPIwMEq4"
+        },
+        {
+            "title": "OVERWATCH",
+            "description": "Embark on mythic adventure in Seoson 5",
+            "icon": "Game",
+            "image": "Dota",
+            "videoId": "-cSFPIwMEq4"
+        },
+        {
+            "title": "CALL OF DUTY",
+            "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
+            "icon": "Game",
+            "image": "Dota",
+            "videoId": "-cSFPIwMEq4",
+        },
     ]
 }
