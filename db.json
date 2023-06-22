@@ -1,0 +1,29 @@
+{
+    "favourite": [
+        {
+            "id": 1,
+            "label": "Home",
+            "logo": "Game"
+        },
+        {
+            "id": 2,
+            "label": "Games",
+            "logo": "Game"
+        },
+        {
+            "id": 3,
+            "label": "Games",
+            "logo": "Game"
+        },
+        {
+            "id": 4,
+            "label": "Games",
+            "logo": "Game"
+        },
+        {
+            "id": 5,
+            "label": "Games",
+            "logo": "Game"
+        }
+    ]
+}
