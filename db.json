@@ -80,14 +80,14 @@
             "title": "OVERWATCH",
             "description": "Embark on mythic adventure in Seoson 5",
             "icon": "Game",
-            "iconScr": "https://i.ibb.co/xsGj99m/Overwatch-cover-art.jpg",
+            "iconSrc": "https://i.ibb.co/xsGj99m/Overwatch-cover-art.jpg",
             "videoId": "-cSFPIwMEq4"
         },
         {
             "title": "CALL OF DUTY",
             "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
             "icon": "Game",
-            "iconScr": "https://i.ibb.co/jrr1VWk/597965.jpg",
+            "iconSrc": "https://i.ibb.co/jrr1VWk/597965.jpg",
             "videoId": "-cSFPIwMEq4"
         }
     ],
