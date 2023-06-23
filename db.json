@@ -2,28 +2,28 @@
     "favourite": [
         {
             "id": 1,
-            "label": "Home",
-            "logo": "Game"
+            "label": "Assassin's Creed",
+            "iconSrc": "https://i.ibb.co/BwJM75f/AIVAsqC.jpg"
         },
         {
             "id": 2,
-            "label": "Games",
-            "logo": "Game"
+            "label": "Dota 2",
+            "iconSrc": "https://i.ibb.co/dmvg3mK/dota-2-valve.webp"
         },
         {
             "id": 3,
-            "label": "Games",
-            "logo": "Game"
+            "label": "DIABLO",
+            "iconSrc": "https://i.ibb.co/dcrqwnj/E6b83hp-XIAA-0t-I.jpg"
         },
         {
             "id": 4,
-            "label": "Games",
-            "logo": "Game"
+            "label": "Red Dead Redemption 2",
+            "iconSrc": "https://i.ibb.co/748Xh2k/Red-Dead-Redemption-II.jpg"
         },
         {
             "id": 5,
-            "label": "Games",
-            "logo": "Game"
+            "label": "Cyberpunk 2077",
+            "iconSrc": "https://i.ibb.co/hByHB7X/Cyberpunk-2077-box-art.jpg"
         }
     ],
     "top-games": [
@@ -32,39 +32,39 @@
             "subTitle": "Wecome to hell",
             "description": "Peeling back the patina: The graphics of Sanctuary",
             "icon": "Game",
-            "image": "Doa",
+            "iconSrc": "https://i.ibb.co/dcrqwnj/E6b83hp-XIAA-0t-I.jpg",
             "id": 1
         },
         {
-            "title": "OVERWATCH",
+            "title": "Cyberpunk 2077",
             "subTitle": "Welcome to hell",
             "description": "Embark on mythic adventure in Seoson 5",
             "icon": "Game",
-            "image": "Dota",
+            "iconSrc": "https://i.ibb.co/hByHB7X/Cyberpunk-2077-box-art.jpg",
             "id": 2
         },
         {
-            "title": "CALL OF DUTY",
+            "title": "Red Dead Redemption 2",
             "subTitle": "Welcome to hell",
             "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
             "icon": "Game",
-            "image": "Dota",
+            "iconSrc": "https://i.ibb.co/748Xh2k/Red-Dead-Redemption-II.jpg",
             "id": 3
         },
         {
-            "title": "OVERWATCH",
+            "title": "Assassin's Creed",
             "subTitle": "Welcome to hell",
             "description": "Embark on mythic adventure in Seoson 5",
             "icon": "Game",
-            "image": "Dota",
+            "iconSrc": "https://i.ibb.co/BwJM75f/AIVAsqC.jpg",
             "id": 4
         },
         {
-            "title": "OVERWATCH",
+            "title": "Dota 2",
             "subTitle": "Welcome to hell",
             "description": "Embark on mythic adventure in Seoson 5",
             "icon": "Game",
-            "image": "Dota",
+            "iconSrc": "https://i.ibb.co/dmvg3mK/dota-2-valve.webp",
             "id": 5
         }
     ],
@@ -73,22 +73,64 @@
             "title": "DIABLO",
             "description": "Peeling back the patina: The graphics of Sanctuary",
             "icon": "Game",
-            "image": "Dota",
+            "iconSrc": "https://i.ibb.co/dcrqwnj/E6b83hp-XIAA-0t-I.jpg",
             "videoId": "-cSFPIwMEq4"
         },
         {
             "title": "OVERWATCH",
             "description": "Embark on mythic adventure in Seoson 5",
             "icon": "Game",
-            "image": "Dota",
+            "iconScr": "https://i.ibb.co/xsGj99m/Overwatch-cover-art.jpg",
             "videoId": "-cSFPIwMEq4"
         },
         {
             "title": "CALL OF DUTY",
             "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
             "icon": "Game",
-            "image": "Dota",
+            "iconScr": "https://i.ibb.co/jrr1VWk/597965.jpg",
             "videoId": "-cSFPIwMEq4"
+        }
+    ],
+    "games": [
+        {
+            "id": 1,
+            "name": "Assassin's Creed Odyssey"
+        },
+        {
+            "id": 2,
+            "name": "Grand Theft Auto 5"
+        },
+        {
+            "id": 3,
+            "name": "Red Dead Redemption 2"
+        },
+        {
+            "id": 4,
+            "name": "Far Cry 5"
+        },
+        {
+            "id": 5,
+            "name": "The Witcher 3: Wild Hunt"
+        },
+        {
+            "id": 6,
+            "name": "Uncharted 4: A Thief's End"
+        },
+        {
+            "id": 7,
+            "name": "Cyberpunk 2077"
+        },
+        {
+            "id": 8,
+            "name": "Dota"
+        },
+        {
+            "id": 9,
+            "name": "Assassin's Creed"
+        },
+        {
+            "id": 10,
+            "name": "Disco Elysium"
         }
     ]
 }
