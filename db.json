@@ -3,28 +3,28 @@
         {
             "id": 1,
             "label": "Assassin's Creed",
-            "iconSrc": "https://storage.googleapis.com/shopify-customerio/tools/image_attachment/image/custom_resized_10624ab2-bd7e-401b-b45c-8dcf2101b3dd.jpg"
+            "iconSrc": "https://res.cloudinary.com/dwc808l7t/image/upload/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg"
         },
          {
             "id": 2,
             "label": "DIABLO",
-            "iconSrc": "https://storage.googleapis.com/shopify-customerio/tools/image_attachment/image/custom_resized_bde810c9-1e8d-41b2-b3a3-56266127fe5e.jpeg"
+            "iconSrc": "https://res.cloudinary.com/dwc808l7t/image/upload/v1687947043/game-launcher/Oo1B84A7BLCT157YFSxjtwG0_u30e2n.jpg"
         },
         {
             "id": 3,
             "label": "Dota 2",
-            "iconSrc": "https://i.ibb.co/TPftn9j/250px-Dot-A2-copy.png"
+            "iconSrc": "https://res.cloudinary.com/dwc808l7t/image/upload/v1687958437/game-launcher/29595-272x380_gcoz7e.jpg"
         },
        
         {
             "id": 4,
             "label": "Red Dead Redemption 2",
-            "iconSrc": "https://i.ibb.co/748Xh2k/Red-Dead-Redemption-II.jpg"
+            "iconSrc": "https://res.cloudinary.com/dwc808l7t/image/upload/v1687958514/game-launcher/Red_Dead_Redemption_ysmtuq.webp"
         },
         {
             "id": 5,
             "label": "Cyberpunk 2077",
-            "iconSrc": "https://i.ibb.co/hByHB7X/Cyberpunk-2077-box-art.jpg"
+            "iconSrc": "https://res.cloudinary.com/dwc808l7t/image/upload/v1687958574/game-launcher/cyberpunk-2077-ps5.large_mstktm.jpg"
         }
     ],
     "top-games": [
