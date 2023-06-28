@@ -5,16 +5,17 @@
             "label": "Assassin's Creed",
             "iconSrc": "https://storage.googleapis.com/shopify-customerio/tools/image_attachment/image/custom_resized_0f92115a-29cf-4f04-8fac-6c9f9bb4ac2b.jpg"
         },
+         {
+            "id": 3,
+            "label": "DIABLO",
+            "iconSrc": "https://storage.googleapis.com/shopify-customerio/tools/image_attachment/image/custom_resized_4e1fdcb7-9c96-4beb-ad97-30d3574563ad.jpeg"
+        },
         {
             "id": 2,
             "label": "Dota 2",
             "iconSrc": "https://i.ibb.co/TPftn9j/250px-Dot-A2-copy.png"
         },
-        {
-            "id": 3,
-            "label": "DIABLO",
-            "iconSrc": "https://storage.googleapis.com/shopify-customerio/tools/image_attachment/image/custom_resized_4e1fdcb7-9c96-4beb-ad97-30d3574563ad.jpeg"
-        },
+       
         {
             "id": 4,
             "label": "Red Dead Redemption 2",
