@@ -132,6 +132,6 @@
         }
     ],
     "default-image": [
-        {"iconScr": "https://res.cloudinary.com/dwc808l7t/image/upload/v1688563787/game-launcher/644c4db94fd5e_xhpv72.png" }
+        {"iconScr": "/v1688563787/game-launcher/644c4db94fd5e_xhpv72.png" }
     ]
 }
