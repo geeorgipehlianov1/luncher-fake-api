@@ -151,7 +151,7 @@
             "macosDownloadURL": "https://downloads.immutable.com/Gods+Unchained-0.14.8.dmg",
             "winDownloadURL": "https://downloads.immutable.com/Gods+Unchained+Setup+0.14.8.exe",
             "imageURLs": [
-                "https://playtoearndiary.com/wp-content/uploads/2022/08/Screenshot-2022-08-21-at-16.47.25-2048x1150.png"
+                "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg"
             ],
             "macosBundleIdentifier": "com.electron.apollo",
             "winAppDir": "immutable-launcher",
@@ -173,7 +173,7 @@
             "macosDownloadURL": "https://launcher-cdn.blankos.game/launcher-macosx/Blankos-Installer.dmg",
             "winDownloadURL": "https://launcher-cdn.blankos.game/launcher/Blankos-Installer.exe",
             "imageURLs": [
-                "https://cdn1.epicgames.com/spt-assets/613f35fcc4484280a0d6865cfd7c6368/blankos-block-party-video-bp6fs.png"
+                "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg"
             ],
             "macosBundleIdentifier": "com.mythical.launcher",
             "winAppDir": "Blankos",
@@ -195,7 +195,7 @@
             "gameCategory": "windows",
             "winDownloadURL": "https://alterverse-alpha.s3.amazonaws.com/install/AlterVerseInstall.exe",
             "imageURLs": [
-                "https://global-uploads.webflow.com/643b1e0ba03aa7017012c6d7/647799a3eed09d0b614514e2_alterverse-web3-gaming-hub.png"
+                "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg"
             ],
             "winDefaultInstallPath": "Programs\\WarRiders\\WarRidersLauncher.exe"
         },
@@ -213,7 +213,7 @@
             ],
             "gameCategory": "browser",
             "imageURLs": [
-                "https://user-images.githubusercontent.com/11745561/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785.png"
+                "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg"
             ],
             "browserGameURL": "https://sunflower-land.com/play/"
         },
@@ -231,7 +231,7 @@
             ],
             "gameCategory": "browser",
             "imageURLs": [
-                "https://media.licdn.com/dms/image/D5622AQGDlCndRhgW8A/feedshare-shrink_800/0/1683815796466?e=1689811200&v=beta&t=ZFXdwkaY1Y7wpn7fomIBt4-4fXyaBw_av1p6mhwxCus"
+                "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg"
             ],
             "browserGameURL": "https://champions.io/play/stream"
         }
