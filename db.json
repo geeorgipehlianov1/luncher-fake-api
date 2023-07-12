@@ -1,344 +1,344 @@
 {
-    "favourite": [
-        {
-            "id": 1,
-            "label": "Assassin's Creed",
-            "iconSrc": "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg"
-        },
-        {
-            "id": 2,
-            "label": "DIABLO",
-            "iconSrc": "/v1687947043/game-launcher/Oo1B84A7BLCT157YFSxjtwG0_u30e2n.jpg"
-        },
-        {
-            "id": 3,
-            "label": "Dota 2",
-            "iconSrc": "/v1687958437/game-launcher/29595-272x380_gcoz7e.jpg"
-        },
-        {
-            "id": 4,
-            "label": "Red Dead Redemption 2",
-            "iconSrc": "/v1687958514/game-launcher/Red_Dead_Redemption_ysmtuq.webp"
-        },
-        {
-            "id": 5,
-            "label": "Cyberpunk 2077",
-            "iconSrc": "/v1687958574/game-launcher/cyberpunk-2077-ps5.large_mstktm.jpg"
-        }
-    ],
-    "top-games": [
-        {
-            "title": "DIABLO",
-            "subTitle": "Wecome to hell",
-            "description": "Peeling back the patina: The graphics of Sanctuary",
-            "icon": "Game",
-            "iconSrc": "/v1687947043/game-launcher/Oo1B84A7BLCT157YFSxjtwG0_u30e2n.jpg",
-            "id": 1
-        },
-        {
-            "title": "Cyberpunk 2077",
-            "subTitle": "Welcome to hell",
-            "description": "Embark on mythic adventure in Seoson 5",
-            "icon": "Game",
-            "iconSrc": "/v1687958574/game-launcher/cyberpunk-2077-ps5.large_mstktm.jpg",
-            "id": 2
-        },
-        {
-            "title": "Red Dead Redemption 2",
-            "subTitle": "Welcome to hell",
-            "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
-            "icon": "Game",
-            "iconSrc": "/v1687958514/game-launcher/Red_Dead_Redemption_ysmtuq.webp",
-            "id": 3
-        },
-        {
-            "title": "Assassin's Creed",
-            "subTitle": "Welcome to hell",
-            "description": "Embark on mythic adventure in Seoson 5",
-            "icon": "Game",
-            "iconSrc": "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg",
-            "id": 4
-        },
-        {
-            "title": "Dota 2",
-            "subTitle": "Welcome to hell",
-            "description": "Embark on mythic adventure in Seoson 5",
-            "icon": "Game",
-            "iconSrc": "/v1687958437/game-launcher/29595-272x380_gcoz7e.jpg",
-            "id": 5
-        }
-    ],
-    "games-trailer": [
-        {
-            "title": "DIABLO",
-            "description": "Peeling back the patina: The graphics of Sanctuary",
-            "iconSrc": "/v1687947043/game-launcher/Oo1B84A7BLCT157YFSxjtwG0_u30e2n.jpg",
-            "videoId": "-cSFPIwMEq4"
-        },
-        {
-            "title": "OVERWATCH",
-            "description": "Embark on mythic adventure in Seoson 5",
-            "iconSrc": "/v1688563536/game-launcher/91lid74MqmL._AC_UF1000_1000_QL80__l5tpu5.jpg",
-            "videoId": "-cSFPIwMEq4"
-        },
-        {
-            "title": "CALL OF DUTY",
-            "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
-            "iconSrc": "/v1688558738/game-launcher/Wz_UJUsKf5PQzlWBhSf0VfshMQbahqDf6byz2uXcSEp9L5nseaCqiYWoagrYjDs3tIOVUqbYRSM_s900-c-k-c0x00ffffff-no-rj_un4kzm.jpg",
-            "videoId": "-cSFPIwMEq4"
-        }
-    ],
-    "games": [
-        {
-            "id": 1,
-            "name": "Assassin's Creed Odyssey"
-        },
-        {
-            "id": 2,
-            "name": "Grand Theft Auto 5"
-        },
-        {
-            "id": 3,
-            "name": "Red Dead Redemption 2"
-        },
-        {
-            "id": 4,
-            "name": "Far Cry 5"
-        },
-        {
-            "id": 5,
-            "name": "The Witcher 3: Wild Hunt"
-        },
-        {
-            "id": 6,
-            "name": "Uncharted 4: A Thief's End"
-        },
-        {
-            "id": 7,
-            "name": "Cyberpunk 2077"
-        },
-        {
-            "id": 8,
-            "name": "Dota"
-        },
-        {
-            "id": 9,
-            "name": "Assassin's Creed"
-        },
-        {
-            "id": 10,
-            "name": "Disco Elysium"
-        }
-    ],
-    "default-image": [
-        {
-            "iconSrc": "/v1688563787/game-launcher/644c4db94fd5e_xhpv72.png"
-        }
-    ],
-    "game-cards": [
-        {
-            "id": 1,
-            "name": "Gods Unchained",
-            "description": "In Minecraft, players explore a blocky, procedurally generated, three-dimensional world with virtually infinite terrain and may discover and extract raw materials, craft tools and items, and build structures, earthworks, and machines.",
-            "categories": [
-                "PvP",
-                "Normal game (Blind, Draft)",
-                "Ranked game (Draft)",
-                "ARAM.",
-                "Teamfight Tactics.",
-                "Featured game mode."
-            ],
-            "macosDownloadURL": "https://downloads.immutable.com/Gods+Unchained-0.14.8.dmg",
-            "winDownloadURL": "https://downloads.immutable.com/Gods+Unchained+Setup+0.14.8.exe",
-            "imageURLs": [
-                "/v1688645539/game-launcher/Screenshot-2022-08-21-at-16.47.25-2048x1150_zc64ja.png"
-            ],
-            "macosBundleIdentifier": "com.electron.apollo",
-            "winAppDir": "immutable-launcher",
-            "winAppName": "Gods Unchained",
-            "gameCategory": "all"
-        },
-        {
-            "id": 2,
-            "name": "BLANKOS Block Party",
-            "description": "Blankos Block Party is a vibrant open-world multiplayer game styled like a giant block party, with a focus on custom art and design, building your own levels, exploration of user created levels, and curating your collection of unique and rare Blankos!",
-            "categories": [
-                "PvP",
-                "Normal game (Blind, Draft)",
-                "Ranked game (Draft)",
-                "ARAM.",
-                "Teamfight Tactics.",
-                "Featured game mode."
-            ],
-            "macosDownloadURL": "https://launcher-cdn.blankos.game/launcher-macosx/Blankos-Installer.dmg",
-            "winDownloadURL": "https://launcher-cdn.blankos.game/launcher/Blankos-Installer.exe",
-            "imageURLs": [
-                "/v1688645388/game-launcher/blankos-block-party-video-bp6fs_b0rvtd.png"
-            ],
-            "macosBundleIdentifier": "com.mythical.launcher",
-            "winAppDir": "Blankos",
-            "winAppName": "Blankos Block Party",
-            "gameCategory": "all"
-        },
-        {
-            "id": 3,
-            "name": "Alterverse",
-            "description": "AlterVerse is a world and game creation platform that creators can use to build Web3 games with realistic graphics and AI integration.",
-            "categories": [
-                "PvP",
-                "Normal game (Blind, Draft)",
-                "Ranked game (Draft)",
-                "ARAM.",
-                "Teamfight Tactics.",
-                "Featured game mode."
-            ],
-            "gameCategory": "windows",
-            "winDownloadURL": "https://alterverse-alpha.s3.amazonaws.com/install/AlterVerseInstall.exe",
-            "imageURLs": [
-                "/v1688645580/game-launcher/647799a3eed09d0b614514e2_alterverse-web3-gaming-hub_eguoew.png"
-            ],
-            "winDefaultInstallPath": "Programs\\WarRiders\\WarRidersLauncher.exe"
-        },
-        {
-            "id": 4,
-            "name": "Sunflower land",
-            "description": "Overview. Sunflower Land is a farm simulation game that teaches users about how business works through building a vibrant, entertaining, and successful farm .",
-            "categories": [
-                "PvP",
-                "Normal game (Blind, Draft)",
-                "Ranked game (Draft)",
-                "ARAM.",
-                "Teamfight Tactics.",
-                "Featured game mode."
-            ],
-            "gameCategory": "browser",
-            "imageURLs": [
-                "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png"
-            ],
-            "browserGameURL": "https://sunflower-land.com/play/"
-        },
-        {
-            "id": 5,
-            "name": "Champions Ascension",
-            "description": "Champions Ascension takes players on a thrilling adventure in a fantasy world where they can own, train, and equip NFT champions, and compete for glory in the Colosseum Eternal.",
-            "categories": [
-                "PvP",
-                "Normal game (Blind, Draft)",
-                "Ranked game (Draft)",
-                "ARAM.",
-                "Teamfight Tactics.",
-                "Featured game mode."
-            ],
-            "gameCategory": "browser",
-            "imageURLs": [
-                "/v1688645643/game-launcher/maxresdefault_qeujyy.jpg"
-            ],
-            "browserGameURL": "https://champions.io/play/stream"
-        }
-    ],
-    "treasury": [
-        {
-            "id": 1,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 2,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 3,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 4,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 5,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 6,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 7,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 8,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 9,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 10,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 11,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        },
-        {
-            "id": 12,
-            "name": "Assasing knife",
-            "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
-            "subTitle": "The assasin most dangerous weapon",
-            "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
-            "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
-        }
-    ],
-    "carousel": [
-        "/v1688645539/game-launcher/Screenshot-2022-08-21-at-16.47.25-2048x1150_zc64ja.png",
-        "/v1688645388/game-launcher/blankos-block-party-video-bp6fs_b0rvtd.png",
-        "/v1688645580/game-launcher/647799a3eed09d0b614514e2_alterverse-web3-gaming-hub_eguoew.png",
-        "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png",
-        "/v1688645643/game-launcher/maxresdefault_qeujyy.jpg"
-    ]
+  "favourite": [
+    {
+      "id": 1,
+      "label": "Assassin's Creed",
+      "iconSrc": "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg"
+    },
+    {
+      "id": 2,
+      "label": "DIABLO",
+      "iconSrc": "/v1687947043/game-launcher/Oo1B84A7BLCT157YFSxjtwG0_u30e2n.jpg"
+    },
+    {
+      "id": 3,
+      "label": "Dota 2",
+      "iconSrc": "/v1687958437/game-launcher/29595-272x380_gcoz7e.jpg"
+    },
+    {
+      "id": 4,
+      "label": "Red Dead Redemption 2",
+      "iconSrc": "/v1687958514/game-launcher/Red_Dead_Redemption_ysmtuq.webp"
+    },
+    {
+      "id": 5,
+      "label": "Cyberpunk 2077",
+      "iconSrc": "/v1687958574/game-launcher/cyberpunk-2077-ps5.large_mstktm.jpg"
+    }
+  ],
+  "top-games": [
+    {
+      "title": "DIABLO",
+      "subTitle": "Wecome to hell",
+      "description": "Peeling back the patina: The graphics of Sanctuary",
+      "icon": "Game",
+      "iconSrc": "/v1687947043/game-launcher/Oo1B84A7BLCT157YFSxjtwG0_u30e2n.jpg",
+      "id": 1
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "subTitle": "Welcome to hell",
+      "description": "Embark on mythic adventure in Seoson 5",
+      "icon": "Game",
+      "iconSrc": "/v1687958574/game-launcher/cyberpunk-2077-ps5.large_mstktm.jpg",
+      "id": 2
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "subTitle": "Welcome to hell",
+      "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
+      "icon": "Game",
+      "iconSrc": "/v1687958514/game-launcher/Red_Dead_Redemption_ysmtuq.webp",
+      "id": 3
+    },
+    {
+      "title": "Assassin's Creed",
+      "subTitle": "Welcome to hell",
+      "description": "Embark on mythic adventure in Seoson 5",
+      "icon": "Game",
+      "iconSrc": "/v1687944131/game-launcher/Assassin_27s_Creed_c3lkvr.jpg",
+      "id": 4
+    },
+    {
+      "title": "Dota 2",
+      "subTitle": "Welcome to hell",
+      "description": "Embark on mythic adventure in Seoson 5",
+      "icon": "Game",
+      "iconSrc": "/v1687958437/game-launcher/29595-272x380_gcoz7e.jpg",
+      "id": 5
+    }
+  ],
+  "games-trailer": [
+    {
+      "title": "DIABLO",
+      "description": "Peeling back the patina: The graphics of Sanctuary",
+      "iconSrc": "/v1687947043/game-launcher/Oo1B84A7BLCT157YFSxjtwG0_u30e2n.jpg",
+      "videoId": "-cSFPIwMEq4"
+    },
+    {
+      "title": "OVERWATCH",
+      "description": "Embark on mythic adventure in Seoson 5",
+      "iconSrc": "/v1688563536/game-launcher/91lid74MqmL._AC_UF1000_1000_QL80__l5tpu5.jpg",
+      "videoId": "-cSFPIwMEq4"
+    },
+    {
+      "title": "CALL OF DUTY",
+      "description": "Watch the fight for new battlegrounds unfold in the  latest trailer",
+      "iconSrc": "/v1688558738/game-launcher/Wz_UJUsKf5PQzlWBhSf0VfshMQbahqDf6byz2uXcSEp9L5nseaCqiYWoagrYjDs3tIOVUqbYRSM_s900-c-k-c0x00ffffff-no-rj_un4kzm.jpg",
+      "videoId": "-cSFPIwMEq4"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Assassin's Creed Odyssey"
+    },
+    {
+      "id": 2,
+      "name": "Grand Theft Auto 5"
+    },
+    {
+      "id": 3,
+      "name": "Red Dead Redemption 2"
+    },
+    {
+      "id": 4,
+      "name": "Far Cry 5"
+    },
+    {
+      "id": 5,
+      "name": "The Witcher 3: Wild Hunt"
+    },
+    {
+      "id": 6,
+      "name": "Uncharted 4: A Thief's End"
+    },
+    {
+      "id": 7,
+      "name": "Cyberpunk 2077"
+    },
+    {
+      "id": 8,
+      "name": "Dota"
+    },
+    {
+      "id": 9,
+      "name": "Assassin's Creed"
+    },
+    {
+      "id": 10,
+      "name": "Disco Elysium"
+    }
+  ],
+  "default-image": [
+    {
+      "iconSrc": "/v1688563787/game-launcher/644c4db94fd5e_xhpv72.png"
+    }
+  ],
+  "game-cards": [
+    {
+      "id": 55,
+      "name": "Gods Unchained",
+      "description": "In Minecraft, players explore a blocky, procedurally generated ...",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "macosDownloadURL": "https://downloads.immutable.com/Gods+Unchained-0.14.8.dmg",
+      "winDownloadURL": "https://downloads.immutable.com/Gods+Unchained+Setup+0.14.8.exe",
+      "imageURLs": [
+        "https://playtoearndiary.com/wp-content/uploads/2022/08/Screenshot-2022-08-21-at-16.47.25-2048x1150.png"
+      ],
+      "macosBundleIdentifier": "com.electron.apollo",
+      "winAppDir": "immutable-launcher",
+      "winAppName": "Gods Unchained",
+      "categories": ["blockchain", "paid", "desktop"]
+    },
+    {
+      "id": 56,
+      "name": "BLANKOS Block Party",
+      "description": "Blankos Block Party is a vibrant open-world multiplayer game styled ...",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "macosDownloadURL": "https://launcher-cdn.blankos.game/launcher-macosx/Blankos-Installer.dmg",
+      "winDownloadURL": "https://launcher-cdn.blankos.game/launcher/Blankos-Installer.exe",
+      "imageURLs": [
+        "https://cdn1.epicgames.com/spt-assets/613f35fcc4484280a0d6865cfd7c6368/blankos-block-party-video-bp6fs.png"
+      ],
+      "macosBundleIdentifier": "com.mythical.launcher",
+      "winAppDir": "Blankos",
+      "winAppName": "Blankos Block Party",
+      "categories": ["blockchain", "paid", "desktop"]
+    },
+    {
+      "id": 57,
+      "name": "Alterverse",
+      "description": "AlterVerse is a world and game creation platform ...",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "categories": ["blockchain", "paid", "desktop", "windows"],
+      "winDownloadURL": "https://alterverse-alpha.s3.amazonaws.com/install/AlterVerseInstall.exe",
+      "imageURLs": [
+        "https://global-uploads.webflow.com/643b1e0ba03aa7017012c6d7/647799a3eed09d0b614514e2_alterverse-web3-gaming-hub.png"
+      ],
+      "winDefaultInstallPath": "Programs\\WarRiders\\WarRidersLauncher.exe"
+    },
+    {
+      "id": 4,
+      "name": "Sunflower land",
+      "description": "Overview. Sunflower Land is a farm simulation ...",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "categories": ["browser", "blockchain"],
+      "imageURLs": [
+        "https://user-images.githubusercontent.com/11745561/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785.png"
+      ],
+      "browserGameURL": "https://sunflower-land.com/play/"
+    },
+    {
+      "id": 5,
+      "name": "Champions Ascension",
+      "description": "Champions Ascension takes players on a thrilling ...",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "categories": ["browser", "blockchain"],
+      "imageURLs": [
+        "https://media.licdn.com/dms/image/D5622AQGDlCndRhgW8A/feedshare-shrink_800/0/1683815796466?e=1689811200&v=beta&t=ZFXdwkaY1Y7wpn7fomIBt4-4fXyaBw_av1p6mhwxCus"
+      ],
+      "browserGameURL": "https://champions.io/play/stream"
+    }
+  ],
+  "treasury": [
+    {
+      "id": 1,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 2,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 3,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 4,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 5,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 6,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 7,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 8,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 9,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 10,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 11,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    },
+    {
+      "id": 12,
+      "name": "Assasing knife",
+      "imgSrc": "/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
+      "subTitle": "The assasin most dangerous weapon",
+      "description": "The Hidden Blade is the definitive weapon of the Assassin Order and was designed as a means to enact discrete assassinations. The blade extended from a specially designed bracer which could be easily concealed to compliment the Assassins affinity for stealth.",
+      "tags": "Hidden Blade Assassin Order Weapon Assassinations Discrete Blade Bracer Concealed Stealth Affinity"
+    }
+  ],
+  "carousel": [
+    "/v1688645539/game-launcher/Screenshot-2022-08-21-at-16.47.25-2048x1150_zc64ja.png",
+    "/v1688645388/game-launcher/blankos-block-party-video-bp6fs_b0rvtd.png",
+    "/v1688645580/game-launcher/647799a3eed09d0b614514e2_alterverse-web3-gaming-hub_eguoew.png",
+    "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png",
+    "/v1688645643/game-launcher/maxresdefault_qeujyy.jpg"
+  ]
 }
