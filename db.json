@@ -239,6 +239,25 @@
       ],
       "browserGameURL": "https://champions.io/play/stream",
       "website": "https://godsunchained.com/"
+    },
+    {
+      "id": 6,
+      "name": "planetix",
+      "description": "Planet IX is an online NFT-strategy game where a digital rendition of the earth is your playing field",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "categories": ["browser", "blockchain"],
+      "imageURLs": [
+        "https://www.google.com/search?q=planet+ix+polygon&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-zZH0-pqAAxVjgv0HHVLNDzAQ0pQJegQIDBAB&biw=1352&bih=704&dpr=2#imgrc=B7riK8-Wlwa8AM"
+      ],
+      "browserGameURL": "https://missioncontrol.planetix.com/connect?origin=mission-control___en",
+      "website": "https://missioncontrol.planetix.com"
     }
   ],
   "treasury": [
