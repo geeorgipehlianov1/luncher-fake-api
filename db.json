@@ -240,8 +240,27 @@
       "browserGameUrl": "https://legendsofvenari.com",
       "website": "https://legendsofvenari.com"
     },
-    {
+     {
       "id": 6,
+      "name": "Sunflower land",
+      "description": "Sunflower Land is a play-to-own NFT game that operates on the Polygon Blockchain Network. The game revolves around a real-world theme based on food supply and demand. Players can farm crops, gather resources, cook food, raise animals, craft items, evolve their Bumpkin, and expand their land to build a farming empire.",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "categories": ["browser", "blockchain"],
+      "imageUrls": [
+        "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png"
+      ],
+      "browserGameUrl": "https://sunflower-land.com/play/",
+      "website": "https://sunflower-land.com"
+    },
+    {
+      "id": 7,
       "name": "Champions Ascension",
       "description": "Champions Ascension takes players on a thrilling ...",
       "tags": [
@@ -260,7 +279,7 @@
       "website": "https://godsunchained.com/"
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "planetix",
       "description": "Planet IX is an online NFT-strategy game where a digital rendition of the earth is your playing field",
       "tags": [
