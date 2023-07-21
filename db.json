@@ -261,7 +261,7 @@
     },
     {
       "id": 7,
-      "name": "League of Kingdoms",
+      "name": "Aavegotchi",
       "description": "League of Kingdoms is the world's first blockchain based MMO strategy game. You can own in-game assets such as lands and resources as NFTs. Similar to other MMO strategy games such as Clash of Clans, you will gather resources, develop buldings and build troops to win battles and conquer enemy lands.",
       "tags": [
         "PvP",
@@ -275,8 +275,8 @@
       "imageUrls": [
         "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png"
       ],
-      "browserGameUrl": "https://play.leagueofkingdoms.com/",
-      "website": "https://play.leagueofkingdoms.com/"
+      "browserGameUrl": "https://dapp.aavegotchi.com/",
+      "website": "https://dapp.aavegotchi.com/"
     },
     {
       "id": 8,
