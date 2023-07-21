@@ -148,9 +148,9 @@
         "Teamfight Tactics.",
         "Featured game mode."
       ],
-      "macosDownloadURL": "https://downloads.immutable.com/Gods+Unchained-0.14.8.dmg",
-      "winDownloadURL": "https://downloads.immutable.com/Gods+Unchained+Setup+0.14.8.exe",
-      "imageURLs": [
+      "macosDownloadUrl": "https://downloads.immutable.com/Gods+Unchained-0.14.8.dmg",
+      "winDownloadUrl": "https://downloads.immutable.com/Gods+Unchained+Setup+0.14.8.exe",
+      "imageUrls": [
         "/v1688645539/game-launcher/Screenshot-2022-08-21-at-16.47.25-2048x1150_zc64ja.png"
       ],
       "macosBundleIdentifier": "com.electron.apollo",
@@ -171,9 +171,9 @@
         "Teamfight Tactics.",
         "Featured game mode."
       ],
-      "macosDownloadURL": "https://launcher-cdn.blankos.game/launcher-macosx/Blankos-Installer.dmg",
-      "winDownloadURL": "https://launcher-cdn.blankos.game/launcher/Blankos-Installer.exe",
-      "imageURLs": [
+      "macosDownloadUrl": "https://launcher-cdn.blankos.game/launcher-macosx/Blankos-Installer.dmg",
+      "winDownloadUrl": "https://launcher-cdn.blankos.game/launcher/Blankos-Installer.exe",
+      "imageUrls": [
         "/v1688645388/game-launcher/blankos-block-party-video-bp6fs_b0rvtd.png"
       ],
       "macosBundleIdentifier": "com.mythical.launcher",
@@ -195,8 +195,8 @@
         "Featured game mode."
       ],
       "categories": ["blockchain", "paid", "desktop", "windows"],
-      "winDownloadURL": "https://alterverse-alpha.s3.amazonaws.com/install/AlterVerseInstall.exe",
-      "imageURLs": [
+      "winDownloadUrl": "https://alterverse-alpha.s3.amazonaws.com/install/AlterVerseInstall.exe",
+      "imageUrls": [
         "/v1688645580/game-launcher/647799a3eed09d0b614514e2_alterverse-web3-gaming-hub_eguoew.png"
       ],
       "winDefaultInstallPath": "Programs\\WarRiders\\WarRidersLauncher.exe",
@@ -215,10 +215,10 @@
         "Featured game mode."
       ],
       "categories": ["browser", "blockchain"],
-      "imageURLs": [
+      "imageUrls": [
         "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png"
       ],
-      "browserGameURL": "https://play.decentraland.org",
+      "browserGameUrl": "https://play.decentraland.org",
       "website": "https://decentraland.org/"
     },
     {
@@ -234,10 +234,10 @@
         "Featured game mode."
       ],
       "categories": ["browser", "blockchain"],
-      "imageURLs": [
+      "imageUrls": [
         "/v1688645643/game-launcher/maxresdefault_qeujyy.jpg"
       ],
-      "browserGameURL": "https://champions.io/play/stream",
+      "browserGameUrl": "https://champions.io/play/stream",
       "website": "https://godsunchained.com/"
     },
     {
@@ -253,10 +253,10 @@
         "Featured game mode."
       ],
       "categories": ["browser", "blockchain"],
-      "imageURLs": [
+      "imageUrls": [
         "https://www.google.com/search?q=planet+ix+polygon&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-zZH0-pqAAxVjgv0HHVLNDzAQ0pQJegQIDBAB&biw=1352&bih=704&dpr=2#imgrc=B7riK8-Wlwa8AM"
       ],
-      "browserGameURL": "https://missioncontrol.planetix.com/connect?origin=mission-control___en",
+      "browserGameUrl": "https://missioncontrol.planetix.com/connect?origin=mission-control___en",
       "website": "https://missioncontrol.planetix.com"
     }
   ],
