@@ -279,25 +279,6 @@
       "website": "https://dapp.aavegotchi.com/"
     },
     {
-      "id": 8,
-      "name": "Champions Ascension",
-      "description": "Champions Ascension takes players on a thrilling ...",
-      "tags": [
-        "PvP",
-        "Normal game (Blind, Draft)",
-        "Ranked game (Draft)",
-        "ARAM.",
-        "Teamfight Tactics.",
-        "Featured game mode."
-      ],
-      "categories": ["browser", "blockchain"],
-      "imageUrls": [
-        "/v1688645643/game-launcher/maxresdefault_qeujyy.jpg"
-      ],
-      "browserGameUrl": "https://champions.io/play/stream",
-      "website": "https://godsunchained.com/"
-    },
-    {
       "id": 9,
       "name": "planetix",
       "description": "Planet IX is an online NFT-strategy game where a digital rendition of the earth is your playing field",
