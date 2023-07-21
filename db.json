@@ -204,8 +204,8 @@
     },
     {
       "id": 4,
-      "name": "Sunflower land",
-      "description": "Overview. Sunflower Land is a farm simulation ...",
+      "name": "Decentraland",
+      "description": "Decentraland is a digital game that mimics reality in 3-D and is a user-owned, Ethereum-based virtual reality world platform. Decentraland users oversee this digital world through a decentralized autonomous organization (DAO).",
       "tags": [
         "PvP",
         "Normal game (Blind, Draft)",
@@ -218,8 +218,8 @@
       "imageURLs": [
         "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png"
       ],
-      "browserGameURL": "https://sunflower-land.com/play/",
-      "website": "https://godsunchained.com/"
+      "browserGameURL": "https://play.decentraland.org",
+      "website": "https://decentraland.org/"
     },
     {
       "id": 5,
