@@ -221,8 +221,27 @@
       "browserGameUrl": "https://play.decentraland.org",
       "website": "https://decentraland.org/"
     },
-    {
+      {
       "id": 5,
+      "name": "Legends of Venari",
+      "description": "Legends of Venari is a creature collection RPG, putting players in the role of a master monster-tamer with the sole purpose of collecting all Venaris found across the game's universe.",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "categories": ["browser", "blockchain"],
+      "imageUrls": [
+        "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png"
+      ],
+      "browserGameUrl": "https://legendsofvenari.com",
+      "website": "https://legendsofvenari.com"
+    },
+    {
+      "id": 6,
       "name": "Champions Ascension",
       "description": "Champions Ascension takes players on a thrilling ...",
       "tags": [
@@ -241,7 +260,7 @@
       "website": "https://godsunchained.com/"
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "planetix",
       "description": "Planet IX is an online NFT-strategy game where a digital rendition of the earth is your playing field",
       "tags": [
