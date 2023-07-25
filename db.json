@@ -136,73 +136,7 @@
     }
   ],
   "game-cards": [
-    {
-      "id": 55,
-      "name": "Gods Unchained",
-      "description": "In Minecraft, players explore a blocky, procedurally generated ...",
-      "tags": [
-        "PvP",
-        "Normal game (Blind, Draft)",
-        "Ranked game (Draft)",
-        "ARAM.",
-        "Teamfight Tactics.",
-        "Featured game mode."
-      ],
-      "macosDownloadUrl": "https://downloads.immutable.com/Gods+Unchained-0.14.8.dmg",
-      "winDownloadUrl": "https://downloads.immutable.com/Gods+Unchained+Setup+0.14.8.exe",
-      "imageUrls": [
-        "/v1688645539/game-launcher/Screenshot-2022-08-21-at-16.47.25-2048x1150_zc64ja.png"
-      ],
-      "macosBundleIdentifier": "com.electron.apollo",
-      "winAppDir": "immutable-launcher",
-      "winAppName": "Gods Unchained",
-      "categories": ["blockchain", "paid", "desktop"],
-      "website": "https://godsunchained.com/"
-    },
-    {
-      "id": 56,
-      "name": "BLANKOS Block Party",
-      "description": "Blankos Block Party is a vibrant open-world multiplayer game styled ...",
-      "tags": [
-        "PvP",
-        "Normal game (Blind, Draft)",
-        "Ranked game (Draft)",
-        "ARAM.",
-        "Teamfight Tactics.",
-        "Featured game mode."
-      ],
-      "macosDownloadUrl": "https://launcher-cdn.blankos.game/launcher-macosx/Blankos-Installer.dmg",
-      "winDownloadUrl": "https://launcher-cdn.blankos.game/launcher/Blankos-Installer.exe",
-      "imageUrls": [
-        "/v1688645388/game-launcher/blankos-block-party-video-bp6fs_b0rvtd.png"
-      ],
-      "macosBundleIdentifier": "com.mythical.launcher",
-      "winAppDir": "Blankos",
-      "winAppName": "Blankos Block Party",
-      "categories": ["blockchain", "paid", "desktop"],
-      "website": "https://godsunchained.com/"
-    },
-    {
-      "id": 57,
-      "name": "Alterverse",
-      "description": "AlterVerse is a world and game creation platform ...",
-      "tags": [
-        "PvP",
-        "Normal game (Blind, Draft)",
-        "Ranked game (Draft)",
-        "ARAM.",
-        "Teamfight Tactics.",
-        "Featured game mode."
-      ],
-      "categories": ["blockchain", "paid", "desktop", "windows"],
-      "winDownloadUrl": "https://alterverse-alpha.s3.amazonaws.com/install/AlterVerseInstall.exe",
-      "imageUrls": [
-        "/v1688645580/game-launcher/647799a3eed09d0b614514e2_alterverse-web3-gaming-hub_eguoew.png"
-      ],
-      "winDefaultInstallPath": "Programs\\WarRiders\\WarRidersLauncher.exe",
-      "website": "https://godsunchained.com/"
-    },
-    {
+   {
       "id": 1,
       "name": "Monsterra",
       "description": "The game set foot in a fictional world and revolves around farming, property building, and battling other lands with the magical creatures named Mongen.",
@@ -219,7 +153,8 @@
         "https://www.google.com/search?q=planet+ix+polygon&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-zZH0-pqAAxVjgv0HHVLNDzAQ0pQJegQIDBAB&biw=1352&bih=704&dpr=2#imgrc=B7riK8-Wlwa8AM"
       ],
       "browserGameUrl": "https://play.monsterra.io/",
-      "website": "https://monsterra.io/"
+      "website": "https://monsterra.io/",
+      "chains": ["avalanche"]
     },
     {
       "id": 2,
@@ -238,29 +173,11 @@
         "https://www.google.com/search?q=planet+ix+polygon&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-zZH0-pqAAxVjgv0HHVLNDzAQ0pQJegQIDBAB&biw=1352&bih=704&dpr=2#imgrc=B7riK8-Wlwa8AM"
       ],
       "browserGameUrl": "https://play.dragoncrypto.games/",
-      "website": "https://play.dragoncrypto.games/"
+      "website": "https://play.dragoncrypto.games/",
+      "chains": ["avalanche"]
     },
     {
       "id": 3,
-      "name": "Snail Trail",
-      "description": "The game set foot in a fictional world and revolves around farming, property building, and battling other lands with the magical creatures named Mongen.",
-      "tags": [
-        "PvP",
-        "Normal game (Blind, Draft)",
-        "Ranked game (Draft)",
-        "ARAM.",
-        "Teamfight Tactics.",
-        "Featured game mode."
-      ],
-      "categories": ["browser", "blockchain"],
-      "imageUrls": [
-        "https://www.google.com/search?q=planet+ix+polygon&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-zZH0-pqAAxVjgv0HHVLNDzAQ0pQJegQIDBAB&biw=1352&bih=704&dpr=2#imgrc=B7riK8-Wlwa8AM"
-      ],
-      "browserGameUrl": "https://www.snailtrail.art/game/race-mode/missions",
-      "website": "https://www.snailtrail.art"
-    },
-    {
-      "id": 4,
       "name": "Decentraland",
       "description": "Decentraland is a digital game that mimics reality in 3-D and is a user-owned, Ethereum-based virtual reality world platform. Decentraland users oversee this digital world through a decentralized autonomous organization (DAO).",
       "tags": [
@@ -276,29 +193,11 @@
         "/v1689938478/game-launcher/Decentraland-hero-1200x675_qfmejn.png"
       ],
       "browserGameUrl": "https://play.decentraland.org",
-      "website": "https://decentraland.org/"
+      "website": "https://decentraland.org/",
+      "chains": ["ethereum"]
     },
-      {
-      "id": 5,
-      "name": "Legends of Venari",
-      "description": "Legends of Venari is a creature collection RPG, putting players in the role of a master monster-tamer with the sole purpose of collecting all Venaris found across the game's universe.",
-      "tags": [
-        "PvP",
-        "Normal game (Blind, Draft)",
-        "Ranked game (Draft)",
-        "ARAM.",
-        "Teamfight Tactics.",
-        "Featured game mode."
-      ],
-      "categories": ["browser", "blockchain"],
-      "imageUrls": [
-        "/v1689938499/game-launcher/maxresdefault_jlj0sg.jpg"
-      ],
-      "browserGameUrl": "https://legendsofvenari.com",
-      "website": "https://legendsofvenari.com"
-    },
-     {
-      "id": 6,
+    {
+      "id": 4,
       "name": "Sunflower land",
       "description": "Sunflower Land is a play-to-own NFT game that operates on the Polygon Blockchain Network. The game revolves around a real-world theme based on food supply and demand. Players can farm crops, gather resources, cook food, raise animals, craft items, evolve their Bumpkin, and expand their land to build a farming empire.",
       "tags": [
@@ -314,10 +213,11 @@
         "/v1688645292/game-launcher/150654347-cb1abc19-28d6-4714-b21a-eafffaa59785_kcgl7p.png"
       ],
       "browserGameUrl": "https://sunflower-land.com/play/",
-      "website": "https://sunflower-land.com"
+      "website": "https://sunflower-land.com",
+      "chains": ["polygon"]
     },
     {
-      "id": 7,
+      "id": 5,
       "name": "Aavegotchi",
       "description": "League of Kingdoms is the world's first blockchain based MMO strategy game. You can own in-game assets such as lands and resources as NFTs. Similar to other MMO strategy games such as Clash of Clans, you will gather resources, develop buldings and build troops to win battles and conquer enemy lands.",
       "tags": [
@@ -333,12 +233,13 @@
         "/v1689938515/game-launcher/CryptoMode-Aavegotchi_nvbhxm.png"
       ],
       "browserGameUrl": "https://dapp.aavegotchi.com/",
-      "website": "https://dapp.aavegotchi.com/"
+      "website": "https://dapp.aavegotchi.com/",
+      "chains": ["polygon"]
     },
     {
-      "id": 9,
-      "name": "planetix",
-      "description": "Planet IX is an online NFT-strategy game where a digital rendition of the earth is your playing field",
+      "id": 6,
+      "name": "Metaderby",
+      "description": "League of Kingdoms is the world's first blockchain based MMO strategy game. You can own in-game assets such as lands and resources as NFTs. Similar to other MMO strategy games such as Clash of Clans, you will gather resources, develop buldings and build troops to win battles and conquer enemy lands.",
       "tags": [
         "PvP",
         "Normal game (Blind, Draft)",
@@ -349,10 +250,11 @@
       ],
       "categories": ["browser", "blockchain"],
       "imageUrls": [
-        "https://www.google.com/search?q=planet+ix+polygon&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-zZH0-pqAAxVjgv0HHVLNDzAQ0pQJegQIDBAB&biw=1352&bih=704&dpr=2#imgrc=B7riK8-Wlwa8AM"
+        "/v1689938515/game-launcher/CryptoMode-Aavegotchi_nvbhxm.png"
       ],
-      "browserGameUrl": "https://missioncontrol.planetix.com/connect?origin=mission-control___en",
-      "website": "https://missioncontrol.planetix.com"
+      "browserGameUrl": "https://beta.metaderby.com/open-race",
+      "website": "https://beta.metaderby.com/open-race",
+      "chains": ["avalanche"]
     }
   ],
   "treasury": [
