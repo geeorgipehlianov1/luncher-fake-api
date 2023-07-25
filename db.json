@@ -223,6 +223,25 @@
     },
     {
       "id": 2,
+      "name": "Dragon Crypto",
+      "description": "The game set foot in a fictional world and revolves around farming, property building, and battling other lands with the magical creatures named Mongen.",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "categories": ["browser", "blockchain"],
+      "imageUrls": [
+        "https://www.google.com/search?q=planet+ix+polygon&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-zZH0-pqAAxVjgv0HHVLNDzAQ0pQJegQIDBAB&biw=1352&bih=704&dpr=2#imgrc=B7riK8-Wlwa8AM"
+      ],
+      "browserGameUrl": "https://play.dragoncrypto.games/",
+      "website": "https://play.dragoncrypto.games/"
+    },
+    {
+      "id": 3,
       "name": "Snail Trail",
       "description": "The game set foot in a fictional world and revolves around farming, property building, and battling other lands with the magical creatures named Mongen.",
       "tags": [
