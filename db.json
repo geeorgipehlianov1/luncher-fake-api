@@ -222,6 +222,25 @@
       "website": "https://monsterra.io/"
     },
     {
+      "id": 2,
+      "name": "Snail Trail",
+      "description": "The game set foot in a fictional world and revolves around farming, property building, and battling other lands with the magical creatures named Mongen.",
+      "tags": [
+        "PvP",
+        "Normal game (Blind, Draft)",
+        "Ranked game (Draft)",
+        "ARAM.",
+        "Teamfight Tactics.",
+        "Featured game mode."
+      ],
+      "categories": ["browser", "blockchain"],
+      "imageUrls": [
+        "https://www.google.com/search?q=planet+ix+polygon&tbm=isch&sa=X&sqi=2&ved=2ahUKEwj-zZH0-pqAAxVjgv0HHVLNDzAQ0pQJegQIDBAB&biw=1352&bih=704&dpr=2#imgrc=B7riK8-Wlwa8AM"
+      ],
+      "browserGameUrl": "https://www.snailtrail.art/game/race-mode/missions",
+      "website": "https://www.snailtrail.art"
+    },
+    {
       "id": 4,
       "name": "Decentraland",
       "description": "Decentraland is a digital game that mimics reality in 3-D and is a user-owned, Ethereum-based virtual reality world platform. Decentraland users oversee this digital world through a decentralized autonomous organization (DAO).",
