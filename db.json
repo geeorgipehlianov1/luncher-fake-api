@@ -238,7 +238,7 @@
     },
     {
       "id": 6,
-      "name": "Metaderby",
+      "name": "Wolf Game",
       "description": "League of Kingdoms is the world's first blockchain based MMO strategy game. You can own in-game assets such as lands and resources as NFTs. Similar to other MMO strategy games such as Clash of Clans, you will gather resources, develop buldings and build troops to win battles and conquer enemy lands.",
       "tags": [
         "PvP",
@@ -252,9 +252,9 @@
       "imageUrls": [
         "/v1689938515/game-launcher/CryptoMode-Aavegotchi_nvbhxm.png"
       ],
-      "browserGameUrl": "https://beta.metaderby.com/open-race",
-      "website": "https://beta.metaderby.com/open-race",
-      "chains": ["avalanche"]
+      "browserGameUrl": "https://game.wolf.game/",
+      "website": "hhttps://game.wolf.game/",
+      "chains": ["ethereum"]
     }
   ],
   "treasury": [
