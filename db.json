@@ -154,7 +154,8 @@
       ],
       "browserGameUrl": "https://play.monsterra.io/",
       "website": "https://monsterra.io/",
-      "chains": ["avalanche"]
+      "chains": ["avalanche"],
+      "videoIds": ["YG35phnCKRc", "Ro26B394ZBM", "vlVSJ0AvZe0"]
     },
     {
       "id": 2,
@@ -174,7 +175,8 @@
       ],
       "browserGameUrl": "https://play.dragoncrypto.games/",
       "website": "https://play.dragoncrypto.games/",
-      "chains": ["avalanche"]
+      "chains": ["avalanche"],
+      "videoIds": ["YG35phnCKRc", "Ro26B394ZBM", "vlVSJ0AvZe0"]
     },
     {
       "id": 3,
@@ -194,7 +196,8 @@
       ],
       "browserGameUrl": "https://play.decentraland.org",
       "website": "https://decentraland.org/",
-      "chains": ["ethereum"]
+      "chains": ["ethereum"],
+      "videoIds": ["YG35phnCKRc", "Ro26B394ZBM", "vlVSJ0AvZe0"]
     },
     {
       "id": 4,
@@ -214,7 +217,8 @@
       ],
       "browserGameUrl": "https://sunflower-land.com/play/",
       "website": "https://sunflower-land.com",
-      "chains": ["polygon"]
+      "chains": ["polygon"],
+      "videoIds": ["YG35phnCKRc", "Ro26B394ZBM", "vlVSJ0AvZe0"]
     },
     {
       "id": 5,
@@ -234,7 +238,8 @@
       ],
       "browserGameUrl": "https://dapp.aavegotchi.com/",
       "website": "https://dapp.aavegotchi.com/",
-      "chains": ["polygon"]
+      "chains": ["polygon"],
+      "videoIds": ["YG35phnCKRc", "Ro26B394ZBM", "vlVSJ0AvZe0"]
     },
     {
       "id": 6,
@@ -254,7 +259,8 @@
       ],
       "browserGameUrl": "https://game.wolf.game/",
       "website": "hhttps://game.wolf.game/",
-      "chains": ["ethereum"]
+      "chains": ["ethereum"],
+      "videoIds": ["YG35phnCKRc", "Ro26B394ZBM", "vlVSJ0AvZe0"]
     }
   ],
   "treasury": [
