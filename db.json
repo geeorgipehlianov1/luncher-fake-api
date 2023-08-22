@@ -140,13 +140,17 @@
       "id": 1,
       "name": "Monsterra",
       "description": "The game set foot in a fictional world and revolves around farming, property building, and battling other lands with the magical creatures named Mongen.",
-      "tags": [
+      "gameTags": [
         "PvP",
         "Normal game (Blind, Draft)",
         "Ranked game (Draft)",
         "ARAM.",
         "Teamfight Tactics.",
         "Featured game mode."
+      ],
+      "tags": [
+        "featured",
+        "recommended"
       ],
       "categories": [
         "browser",
@@ -181,13 +185,14 @@
           "videoId": null,
           "thumbnail": "/v1691674801/game-launcher/maxresdefault_xhzbyi.jpg"
         }
-      ]
+      ],
+      
     },
     {
       "id": 2,
       "name": "Dragon Crypto",
       "description": "The game set foot in a fictional world and revolves around farming, property building, and battling other lands with the magical creatures named Mongen.",
-      "tags": [
+      "gameTags": [
         "PvP",
         "Normal game (Blind, Draft)",
         "Ranked game (Draft)",
@@ -195,6 +200,7 @@
         "Teamfight Tactics.",
         "Featured game mode."
       ],
+      "tags": ["recommended"],
       "categories": [
         "browser",
         "blockchain"
@@ -234,7 +240,8 @@
       "id": 3,
       "name": "Decentraland",
       "description": "Decentraland is a digital game that mimics reality in 3-D and is a user-owned, Ethereum-based virtual reality world platform. Decentraland users oversee this digital world through a decentralized autonomous organization (DAO).",
-      "tags": [
+      "tags": ["featured"],
+      "gameTags": [
         "PvP",
         "Normal game (Blind, Draft)",
         "Ranked game (Draft)",
@@ -280,6 +287,7 @@
     {
       "id": 4,
       "name": "Sunflower land",
+      "tags": ["featured"],
       "description": "Sunflower Land is a play-to-own NFT game that operates on the Polygon Blockchain Network. The game revolves around a real-world theme based on food supply and demand. Players can farm crops, gather resources, cook food, raise animals, craft items, evolve their Bumpkin, and expand their land to build a farming empire.",
       "tags": [
         "PvP",
@@ -327,6 +335,7 @@
     {
       "id": 5,
       "name": "Aavegotchi",
+      "tags": ["featured"],
       "description": "League of Kingdoms is the world's first blockchain based MMO strategy game. You can own in-game assets such as lands and resources as NFTs. Similar to other MMO strategy games such as Clash of Clans, you will gather resources, develop buldings and build troops to win battles and conquer enemy lands.",
       "tags": [
         "PvP",
@@ -374,6 +383,7 @@
     {
       "id": 6,
       "name": "Wolf Game",
+      "tags": ["recommended"],
       "description": "League of Kingdoms is the world's first blockchain based MMO strategy game. You can own in-game assets such as lands and resources as NFTs. Similar to other MMO strategy games such as Clash of Clans, you will gather resources, develop buldings and build troops to win battles and conquer enemy lands.",
       "tags": [
         "PvP",
