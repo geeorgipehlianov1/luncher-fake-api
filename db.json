@@ -197,7 +197,7 @@
 			],
 			"browserGameUrl": "https://play.dragoncrypto.games/",
 			"website": "https://play.dragoncrypto.games/",
-			"chains": [
+			"chainIds": [
 				"43114"
 			],
 			"media": [{
@@ -242,7 +242,7 @@
 			],
 			"browserGameUrl": "https://play.decentraland.org",
 			"website": "https://decentraland.org/",
-			"chains": [
+			"chainIds": [
 				"1"
 			],
 			"media": [{
@@ -287,7 +287,7 @@
 			],
 			"browserGameUrl": "https://sunflower-land.com/play/",
 			"website": "https://sunflower-land.com",
-			"chains": [
+			"chainIds": [
 				"137"
 			],
 			"media": [{
@@ -332,7 +332,7 @@
 			],
 			"browserGameUrl": "https://dapp.aavegotchi.com/",
 			"website": "https://dapp.aavegotchi.com/",
-			"chains": [
+			"chainIds": [
 				"137"
 			],
 			"media": [{
@@ -377,7 +377,7 @@
 			],
 			"browserGameUrl": "https://game.wolf.game/",
 			"website": "hhttps://game.wolf.game/",
-			"chains": [
+			"chainIds": [
 				"1"
 			],
 			"media": [{
