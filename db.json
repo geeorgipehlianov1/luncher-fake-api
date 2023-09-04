@@ -409,7 +409,7 @@
 			]
 		}
 	],
-	"treasury": [{
+	"inventory": [{
 			"id": 1,
 			"name": "Assasing knife",
 			"imgSrc": "https://res.cloudinary.com/dwc808l7t/image/upload/w_1080,q_auto/v1689083266/game-launcher/il_300x300.5044221978_8k1z_cyvrsb.jpg",
